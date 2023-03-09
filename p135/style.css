@@ -1,0 +1,21 @@
+body
+{
+background-size: cover;
+}
+h1
+{
+color: aliceblue;
+}
+.heading
+{
+font-size: medium;
+width: 100%;
+margin: 2px;
+}
+canvas
+{
+border: 2px solid black;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px black;
+}
